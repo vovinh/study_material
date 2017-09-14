@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+#download train.csv from https://www.kaggle.com/c/titanic
 #1. read data
 df = pd.read_csv("train.csv")
 
